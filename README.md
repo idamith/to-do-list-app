@@ -4,7 +4,7 @@
 
 ### Clone repository to local
 
-`git clone `
+`git clone https://github.com/idotrick/to-do-list-app.git`
 
 ### Start React frontend
 

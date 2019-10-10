@@ -1,4 +1,4 @@
-# To Do List - A Demo Full Stack Application in React/SpringBoot
+# To Do List - A Demo Full Stack Application in React & SpringBoot
 
 ## Getting Started
 
